@@ -17,12 +17,12 @@ sitemap:
     /* Set additional styling options for the columns*/
     .column1 {
     float: left;
-    width: 70%;
+    width: 68%;
     margin: 2em;
     }
     .column2 {
     float: left;
-    width: 30%;
+    width: 28%;
     margin: 2em;
     }
 
