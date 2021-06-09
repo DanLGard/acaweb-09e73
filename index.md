@@ -9,7 +9,12 @@ sitemap:
   priority: 1.0
 ---
 I am a postdoctoral researcher in the Crypto Group at  Royal Holloway, University of London. I am most interested in developing privacy-preserving cryptrography at any level, from foundational mathematics through protocol design to implementations. I obtained my PhD from the University of Surrey, and before that I completed and MMath at the University of Bath. For an up to date list of publications, please see either my [dblp](https://dblp.org/pid/222/6614.html) or my [google scholar](https://scholar.google.co.uk/citations?user=3BhQZ0kAAAAJ&hl=en).
-
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
 <ul>
   <li>Coffee</li>
   <li>Tea</li>
