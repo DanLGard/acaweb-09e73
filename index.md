@@ -22,7 +22,7 @@ sitemap:
     }
     .column2 {
     float: left;
-    width: 28%;
+    width: 25%;
     margin: 2em;
     }
 
