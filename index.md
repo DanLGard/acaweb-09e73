@@ -8,17 +8,19 @@ description: Personal website for Daniel Gardham
 sitemap:
   priority: 1.0
 ---
-I am a postdoctoral researcher in the Crypto Group at  Royal Holloway, University of London. I am most interested in developing privacy-preserving cryptrography at any level, from foundational mathematics through protocol design to implementations. I obtained my PhD from the University of Surrey, and before that I completed and MMath at the University of Bath. For an up to date list of publications, please see either my [dblp](https://dblp.org/pid/222/6614.html) or my [google scholar](https://scholar.google.co.uk/citations?user=3BhQZ0kAAAAJ&hl=en).
-<h1>Heading 1</h1>
-<h2>Heading 2</h2>
-<h3>Heading 3</h3>
-<h4>Heading 4</h4>
-<h5>Heading 5</h5>
-<h6>Heading 6</h6>
+I am a postdoctoral researcher in the Crypto Group at  Royal Holloway, University of London. I am most interested in developing privacy-preserving cryptrography at any level, from foundational mathematics through protocol design to implementations, particularly those built from lattices. 
+
+
+I obtained my PhD from the University of Surrey under the supervision of [Mark Manulis](http://www.manulis.eu/). My thesis was focused on developing functionality of attribute-based signatures in both classical and post-quantum settings. Before that, I completed an MMath at the University of Bath with focus on algebra, analysis and probability. 
+
+<h3>Publications:</h3>
+For an up to date list of publications, please see either my [dblp](https://dblp.org/pid/222/6614.html) or my [google scholar](https://scholar.google.co.uk/citations?user=3BhQZ0kAAAAJ&hl=en).
+
+<h3>Research Interests:</h3>
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Privacy-Preserving Cryptography</li>
+  <li>Provable Security</li>
+  <li>Lattice-based Cryptography</li>
 </ul>
 <aside>
 <p><strong><img src="assets/img/Profile_Close.jpg" alt="Profile" width="300" height="200" />&nbsp;</strong></p>
