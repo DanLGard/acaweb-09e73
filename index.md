@@ -17,7 +17,7 @@ sitemap:
     /* Set additional styling options for the columns*/
     .column1 {
     float: left;
-    width: 68%;
+    width: 70%;
     margin: auto;
     }
     .column2 {
@@ -43,6 +43,7 @@ sitemap:
 <div class="row">
        <div class="column1" style="background-color:#ffffff">
        <p>I am a postdoctoral researcher in the Crypto Group at  Royal Holloway, University of London. I am most interested in developing privacy-preserving cryptrography at any level, from foundational mathematics through protocol design to implementations, particularly those built from lattices. 
+<br>
 <br>
 I obtained my PhD from the University of Surrey in 2021 under the supervision of <a href="http://www.manulis.eu">Mark Manulis</a>. My thesis aimed to develop functionality of attribute-based signatures in both classical and post-quantum settings. Before that, I completed an MMath at the University of Bath with focus on algebra, analysis and probability. 
 <br>
