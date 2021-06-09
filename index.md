@@ -8,11 +8,10 @@ description: Personal website for Daniel Gardham
 sitemap:
   priority: 1.0
 ---
-<p id="describe-text">Me testing this stuff out</p>
+<p id="describe-text">About Me </p>
 <br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
+I am a postdoctoral researcher in the Crypto Group at  Royal Holloway, University of London. I am most interested in developing privacy-preserving cryptrography at any level, from foundational mathematics through protocol design to implementations. I obtained my PhD from the University of Surrey, and before that I completed and MMath at the University of Bath. For an up to date list of publications, please see either my [dblp](https://dblp.org/pid/222/6614.html) or my [google scholarresume](https://scholar.google.co.uk/citations?user=3BhQZ0kAAAAJ&hl=en).
 
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
 
 <br>
 <br>
