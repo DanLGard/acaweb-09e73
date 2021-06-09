@@ -5,7 +5,7 @@
     font-family: 'Helvatica Neue', sans-serif;
     font-size: 100%;
     color: #012;
-    background-color: #88F; } */
+    background-color: #ebf8ff; } */
 
   a {
     color: #57A;
@@ -33,7 +33,7 @@
     color: #444 }
 
   blockquote {
-    background: #f9f9f9;
+    background: #ebf8ff;
     border-left: 10px solid #ccc;
     margin: 1.5em 10px;
     padding: 1em 10px .1em 10px;
@@ -62,7 +62,7 @@
   }
 /*  
   tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #ebf8ff;
   }
 */
 /* =Header *//*************************************************************/
