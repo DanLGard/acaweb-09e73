@@ -17,26 +17,19 @@ sitemap:
     /* Set additional styling options for the columns*/
     .column1 {
     float: left;
-    width: 100%;
+    width: 68%;
     margin: auto;
     }
     .column2 {
     float: left;
-    width: 100%;
+    width: 25%;
     margin: auto;
     }
 
- .container1 {
-    position: relative;
-    width: 75%;
-    padding: 2em;
-    margin: 2em;
-    }
- .container2 {
-    position: relative;
-    width: 25%;
-    padding: 2em;
-    margin: 2em;
+    .space {
+    float: left;
+    width: 5%;
+    margin: auto;
     }
 
     .row:after {
@@ -48,7 +41,6 @@ sitemap:
  </head>
 <section>
 <div class="row">
-       <div class="container1" style="background-color:#ffffff">
        <div class="column1" style="background-color:#ffffff">
        <p>I am a postdoctoral researcher in the Crypto Group at  Royal Holloway, University of London. I am most interested in developing privacy-preserving cryptrography at any level, from foundational mathematics through protocol design to implementations, particularly those built from lattices. 
 <br>
@@ -64,14 +56,15 @@ For an up to date list of publications, please see either my <a href="https://db
   <li>Lattice-based Cryptography</li>
 </ul>
 </p>
-</div> </div>
-       <div class="container2" style="background-color:#ffffff;">
-<div class="column2" style="background-color:#ffffff;">
+       </div>
+ <div class="space" style="background-color:#ffffff;">
+</div>
+       <div class="column2" style="background-color:#ffffff;">
        <p><strong><img src="assets/img/Profile_Close.jpg" alt="Profile" width="100%" />&nbsp;</strong></p>
 <br>
 <h3>Contact:</h3>
 I am most easily reached via email at the following address: firstname.surname@rhul.ac.uk.
-       </div>    </div>
+       </div>
 </div>
 </section>
 
