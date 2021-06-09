@@ -18,12 +18,12 @@ sitemap:
     .column1 {
     float: left;
     width: 70%;
-    margin: auto;
+    margin: 2em;
     }
     .column2 {
     float: left;
     width: 30%;
-    margin: auto;
+    margin: 2em;
     }
 
     .row:after {
