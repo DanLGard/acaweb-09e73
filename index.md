@@ -1,8 +1,8 @@
 ---
 layout: page
 full_logo: true
-title: Title?
-subtitle: Subtitle??
+title: 
+subtitle: 
 description: Personal website for Daniel Gardham
 
 sitemap:
