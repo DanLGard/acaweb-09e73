@@ -36,10 +36,10 @@ sitemap:
        <div class="column1" style="background-color:#ebf8ff;">
        <p>I am a postdoctoral researcher in the Crypto Group at  Royal Holloway, University of London. I am most interested in developing privacy-preserving cryptrography at any level, from foundational mathematics through protocol design to implementations, particularly those built from lattices. 
 <br>
-I obtained my PhD from the University of Surrey in 2021 under the supervision of [Mark Manulis](http://www.manulis.eu/). My thesis aimed to develop functionality of attribute-based signatures in both classical and post-quantum settings. Before that, I completed an MMath at the University of Bath with focus on algebra, analysis and probability. 
+I obtained my PhD from the University of Surrey in 2021 under the supervision of <a href="http://www.manulis.eu">Mark Manulis</a>. My thesis aimed to develop functionality of attribute-based signatures in both classical and post-quantum settings. Before that, I completed an MMath at the University of Bath with focus on algebra, analysis and probability. 
 <br>
 <h3>Publications:</h3>
-For an up to date list of publications, please see either my <a href="https://dblp.org/pid/222/6614.html">dblp</a> entry or my [google scholar](https://scholar.google.co.uk/citations?user=3BhQZ0kAAAAJ&hl=en) page.
+For an up to date list of publications, please see either my <a href="https://dblp.org/pid/222/6614.html">dblp</a> entry or my <a href="https://scholar.google.co.uk/citations?user=3BhQZ0kAAAAJ&hl=en">google scholar</a> page.
 
 <h3>Research Interests:</h3>
 <ul>
