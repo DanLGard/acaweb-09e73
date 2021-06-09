@@ -39,7 +39,7 @@ sitemap:
 I obtained my PhD from the University of Surrey in 2021 under the supervision of [Mark Manulis](http://www.manulis.eu/). My thesis aimed to develop functionality of attribute-based signatures in both classical and post-quantum settings. Before that, I completed an MMath at the University of Bath with focus on algebra, analysis and probability. 
 <br>
 <h3>Publications:</h3>
-For an up to date list of publications, please see either my [dblp](https://dblp.org/pid/222/6614.html) entry or my [google scholar](https://scholar.google.co.uk/citations?user=3BhQZ0kAAAAJ&hl=en) page.
+For an up to date list of publications, please see either my <a href="https://dblp.org/pid/222/6614.html">dblp</a> entry or my [google scholar](https://scholar.google.co.uk/citations?user=3BhQZ0kAAAAJ&hl=en) page.
 
 <h3>Research Interests:</h3>
 <ul>
