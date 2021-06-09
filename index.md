@@ -15,11 +15,11 @@ sitemap:
         box-sizing: border-box;
     }
     /* Set additional styling options for the columns*/
-    .column2 {
+    .column1 {
     float: left;
     width: 70%;
     }
-    .column1 {
+    .column2 {
     float: left;
     width: 30%;
     }
