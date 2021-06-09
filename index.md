@@ -41,16 +41,16 @@ I obtained my PhD from the University of Surrey in 2021 under the supervision of
 
 
 
-    <div class="row">
-        <div class="column" style="background-color:#FFB695;">
-            <h2>Column 1</h2>
-            <p>Data..</p>
-        </div>
-        <div class="column" style="background-color:#96D1CD;">
-            <h2>Column 2</h2>
-            <p>Data..</p>
-        </div>
-    </div>
+<div class="row">
+       <div class="column" style="background-color:#FFB695;">
+       <h2>Column 1</h2>
+       <p>Data..</p>
+       </div>
+       <div class="column" style="background-color:#96D1CD;">
+       <h2>Column 2</h2>
+       <p>Data..</p>
+       </div>
+</div>
 
 <h3>Publications:</h3>
 For an up to date list of publications, please see either my [dblp](https://dblp.org/pid/222/6614.html) entry or my [google scholar](https://scholar.google.co.uk/citations?user=3BhQZ0kAAAAJ&hl=en) page.
