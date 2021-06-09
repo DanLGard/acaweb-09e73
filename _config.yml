@@ -1,14 +1,14 @@
-title: Pudhina Fresh
-short_logo: PF.
+title: Daniel Gardham
+short_logo: DG.
 description: |
-  A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+  Personal Website for Daniel Gardham
 url: ''
 author:
-  name: Ritij Jain
-  github: ritijjain/pudhina-fresh
-  linkedin: ritijjain
-  email: example@example.com
-  homepage: 'https://ritijjain.com'
+  name: Daniel Gardham
+#  github: ritijjain/pudhina-fresh
+  linkedin: daniel-gardham-a531991b7
+  email: daniel.gardham@rhul.ac.uk
+  homepage: 'gardh.am'
   twitter: null
 disqus_name: null
 g_track_id: null
