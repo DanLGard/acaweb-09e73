@@ -1,9 +1,10 @@
 ---
 layout: page
 full_logo: true
-title: 
-subtitle: 
-description: A personal Website for Daniel Gardham.
+title: Title?
+subtitle: Subtitle??
+description: Personal website for Daniel Gardham
+
 sitemap:
   priority: 1.0
 ---
