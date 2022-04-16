@@ -63,7 +63,7 @@ For an up to date list of publications, please see either my <a href="https://db
        <p><strong><img src="assets/img/Profile_Close.jpg" alt="Profile" width="100%" />&nbsp;</strong></p>
 <br>
 <h3>Contact:</h3>
-I am most easily reached via email at the following address: firstname.surname@rhul.ac.uk.
+I am most easily reached via email at the following address: firstname.surname@surrey.ac.uk.
        </div>
 </div>
 </section>
