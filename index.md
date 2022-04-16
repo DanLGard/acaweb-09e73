@@ -42,7 +42,7 @@ sitemap:
 <section>
 <div class="row">
        <div class="column1" style="background-color:#ffffff">
-       <p>I am an Early Career Fellow (lecturer) in the Surrey Centre for Cyber Security at the University of Surrey, UK. I am most interested in protocol design and provable security, with a particular emphasis on privacy-preserving cryptrography and authentication.
+       <p>I am an Early Career Fellow (lecturer) in the Surrey Centre for Cyber Security at the University of Surrey, UK. I am interested in protocol design and provable security, with a particular emphasis on privacy-preserving cryptography and authentication.
 
           Before this I was a postdoctoral researcher in the Information Security Group at Royal Holloway, University of London. I obtained my PhD from the University of Surrey in 2021 under the supervision of <a href="http://www.manulis.eu">Mark Manulis</a>. My thesis developed functionality of attribute-based signatures in both classical and post-quantum settings. I have also completed an MMath at the University of Bath with focus on algebra, analysis and probability. 
 <br>
